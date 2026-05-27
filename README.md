@@ -55,14 +55,14 @@
 - Architected a scalable campus management platform with real-time messaging and notifications.
 - Reduced initial page load time from ~60s to ~10s via indexing, pagination, and Redis caching.
 - Repository: <a href="https://github.com/Hareeswar17/CampusConnect" target="_blank">GitHub</a><br/>
-  Live: <a href="https://campusconnect-1-olvk.onrender.com/" target="_blank">Demo</a>
+-  Live: <a href="https://campusconnect-1-olvk.onrender.com/" target="_blank">Demo</a>
 
 <h3 style="color:#1e90ff">Quick Show</h3>
 <p><em>React · Node.js · MongoDB · Tailwind · Stripe</em></p>
 
 - Built a full-stack movie ticketing system with Stripe payments and a 10-minute seat lock mechanism.
 - Repository: <a href="https://github.com/Hareeswar17/QuickShow" target="_blank">GitHub</a><br/>
-  Live: <a href="https://quickshow-teal.vercel.app/" target="_blank">Demo</a>
+- Live: <a href="https://quickshow-teal.vercel.app/" target="_blank">Demo</a>
 
 ---
 
