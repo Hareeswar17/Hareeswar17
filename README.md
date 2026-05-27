@@ -101,5 +101,6 @@ ensuring real-time seat availability updates.
 
 ## Achievements
 
-- **LeetCode** max rating: 1640
-- Solved 500+ problems across algorithms and DSA
+- **<a href="https://leetcode.com/u/hareeswar_17/" target="_blank">Leetcode</a>** max rating: 1640 
+- Solved 500+ coding problems on LeetCode across dynamic programming, graph theory, and advanced C++
+implementations.
