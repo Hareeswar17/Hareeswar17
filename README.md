@@ -7,8 +7,7 @@
 <p align="center">
   <a href="mailto:hareeswar17@gmail.com">hareeswar17@gmail.com</a> ·
   <a href="https://linkedin.com/in/hareeswar" target="_blank">LinkedIn</a> ·
-  <a href="https://github.com/hareeswar17" target="_blank">GitHub</a> ·
-  <a href="https://yourportfolio.dev" target="_blank">Portfolio</a>
+  <a href="https://hareeswar17.github.io/Hareeswar17-Portfolio/index.html" target="_blank">Portfolio</a>
 </p>
 
 <p align="center">
@@ -42,25 +41,33 @@
 <h3 style="color:#1e90ff">Research Intern · NIT Warangal</h3>
 <p><em>May 2025 — Jun 2025</em></p>
 
-- Developed an end-to-end ML pipeline (CNN + LSTM) for Direction of Arrival (DOA) estimation on multi-channel signals.
+-  Engineered an end-to-end Machine Learning pipeline utilizing CNN and LSTM architectures to predict the
+Direction of Arrival (DOA) of electromagnetic waves.
 - Improved RMSE to <strong>5.04</strong> (~38% improvement over baseline) through model architecture design, feature engineering, and hyperparameter tuning.
+- Implemented data preprocessing pipeline handling multi-channel audio signals, improving model robustness.
 
 ---
 
 ## Projects
 
 <h3 style="color:#1e90ff">Campus Connect</h3>
-<p><em>React · Node.js · Express · MongoDB · Redis · BullMQ · Socket.IO</em></p>
+<p><em>ReactJs · NodeJs · ExpressJs · MongoDB · Redis · BullMQ · Socket.IO · Clerk</em></p>
 
 - Architected a scalable campus management platform with real-time messaging and notifications.
-- Reduced initial page load time from ~60s to ~10s via indexing, pagination, and Redis caching.
+- Reduced initial page load time from 60s to 10s through MongoDB indexing, pagination, and Redis caching.
+- Minimized API latency to under 2 seconds by implementing Redis caching layers and offloading heavy background
+tasks to BullMQ.
 - Repository: <a href="https://github.com/Hareeswar17/CampusConnect" target="_blank">GitHub</a><br/>
 -  Live: <a href="https://campusconnect-1-olvk.onrender.com/" target="_blank">Demo</a>
 
 <h3 style="color:#1e90ff">Quick Show</h3>
-<p><em>React · Node.js · MongoDB · Tailwind · Stripe</em></p>
+<p><em>ReactJs · NodeJs · ExpressJs · MongoDB · Tailwind · Stripe · Clerk · Inngest</em></p>
 
-- Built a full-stack movie ticketing system with Stripe payments and a 10-minute seat lock mechanism.
+- Developed a full-stack movie ticketing application, integrating Stripe API for secure online payments.
+- Engineered a concurrent 10-minute seat locking mechanism with automated release upon payment timeout or
+failure, ensuring reliable booking management.
+- Streamlined dynamic booking workflows with retryable payment logic, improving checkout success rates and
+ensuring real-time seat availability updates.
 - Repository: <a href="https://github.com/Hareeswar17/QuickShow" target="_blank">GitHub</a><br/>
 - Live: <a href="https://quickshow-teal.vercel.app/" target="_blank">Demo</a>
 
@@ -80,7 +87,8 @@
 - **Languages:** C++, JavaScript, Python, SQL
 - **Frontend:** React, Tailwind CSS, HTML/CSS
 - **Backend:** Node.js, Express, Socket.IO
-- **Databases & Tools:** MongoDB, MySQL, Redis, Docker, Git, Postman
+- **Databases:** MongoDB, MySQL, Redis
+- **Developer Tools:** VScode, Postman, Git, Docker
 - **ML & Data:** Pandas, NumPy, Scikit-learn, TensorFlow
 
 ---
